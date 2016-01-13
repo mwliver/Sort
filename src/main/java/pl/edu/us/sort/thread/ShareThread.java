@@ -1,4 +1,6 @@
-package pl.edu.us.sort;
+package pl.edu.us.sort.thread;
+
+import pl.edu.us.sort.sort.SortSynchronized;
 
 public class ShareThread extends Thread implements Runnable {
 

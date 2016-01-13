@@ -1,4 +1,10 @@
-package pl.edu.us.sort;
+package pl.edu.us.sort.view;
+
+import pl.edu.us.sort.sort.Sort;
+import pl.edu.us.sort.sort.SortSynchronized;
+import pl.edu.us.sort.thread.ShareThread;
+import pl.edu.us.sort.thread.SortThread;
+import pl.edu.us.sort.utils.TimeUtils;
 
 import javax.swing.*;
 import java.awt.*;

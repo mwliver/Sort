@@ -1,4 +1,4 @@
-package pl.edu.us.sort;
+package pl.edu.us.sort.view;
 
 import javax.swing.*;
 

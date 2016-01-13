@@ -1,4 +1,4 @@
-package pl.edu.us.sort;
+package pl.edu.us.sort.utils;
 
 import java.util.concurrent.TimeUnit;
 
